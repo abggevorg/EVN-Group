@@ -51,7 +51,7 @@
 		siteContact.innerHTML = '<header class="major"><h2>Contacteer ons</h2></header>' +
 			'<p>Vertel ons kort wat u wilt laten uitvoeren. We nemen zo snel mogelijk contact met u op.</p>' +
 			'<ul class="contact">' +
-			'<li class="icon solid fa-envelope"><a href="mailto:infoevngroup@gmail.com">infoevngroup@gmail.com</a></li>' +
+			'<li class="icon solid fa-envelope"><a href="mailto:EVNGroupinfo@gmail.com">EVNGroupinfo@gmail.com</a></li>' +
 			'<li class="icon solid fa-phone"><a href="tel:+32499727277">(+32) 0499 72 72 77</a></li>' +
 			'</ul>' +
 			'<footer id="footer"><p class="copyright">&copy; 2026 EVN Group. All rights reserved.</p></footer>';
